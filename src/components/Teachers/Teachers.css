@@ -1,0 +1,90 @@
+.single-teacher {
+    box-shadow: 0px 0px 18px 1px rgba(0, 0, 0, 0.05);
+    padding: 30px;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #34327C;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.single-teacher:hover {
+    border-bottom: 2px solid #EC9600;
+}
+.single-teacher img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #34327C;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+    padding: 6px;
+    margin-bottom: 20px;
+}
+.single-teacher:hover img{
+    border-color: #EC9600;
+}
+.single-teacher p {
+    margin: 0;
+    text-transform: capitalize;
+}
+.single-teacher p span {
+    font-weight: 700;
+    text-transform: capitalize;
+    color: #2b2b2b;
+}
+.cart-button {
+    background-color: #34327C;
+    border: none;
+    color: #fff;
+    text-transform: capitalize;
+    padding: 8px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    transition: all linear 0.3s;
+    -webkit-transition: all linear 0.3s;
+    -moz-transition: all linear 0.3s;
+    -ms-transition: all linear 0.3s;
+    -o-transition: all linear 0.3s;
+}
+.single-teacher:hover .cart-button {
+    background-color: #EC9600;
+    
+}
+.social-icon {
+    text-align: center;
+    margin-top: 25px;
+}
+.social-icon i {
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+    margin: 0 8px;
+    font-size: 18px;
+    display: inline-block;
+    border-radius: 50%;
+}
+.fa-facebook-f {
+    background-color: #516EB1;
+}
+.fa-twitter {
+    background-color: #449BD5;
+}
+.fa-instagram {
+    background-color: #DD4B39;
+}
