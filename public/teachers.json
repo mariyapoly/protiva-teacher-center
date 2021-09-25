@@ -1,0 +1,106 @@
+[
+    {
+        "name": "CHARLES HENRY",
+        "img": "https://unsplash.com/photos/pAtA8xe_iVM",
+        "gender": "male",
+        "age": 45,
+        "salary": 288902,
+        "role": "dean"
+    },
+    {
+        "name": "EDWARD MATTHEW",
+        "img": "https://unsplash.com/photos/JQ2D4I-2eyw",
+        "gender": "male",
+        "age": 40,
+        "salary": 255902,
+        "role": "asociate dean"
+    },
+    {
+        "name": "ANNIE BALTIMOR",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-sNZeiam7jtxpw7O6wrgKxJvDVZsm-mkx8Q&usqp=CAU",
+        "gender": "female",
+        "age": 35,
+        "salary": 50089,
+        "role": "english teacher"
+    },
+    {
+        "name": "Polina Kerston",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkgqjLJa05K-lHs1O6q6kjR8lFoHq-TbzKcw&usqp=CAU",
+        "gender": "female",
+        "age": 30,
+        "salary": 59589,
+        "role": "math teacher"
+    },
+    {
+        "name": "Mario Salles",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LmG47_W3RM0QBVGI23-vodL_oOOJxLIBrg&usqp=CAU",
+        "gender": "male",
+        "age": 35,
+        "salary": 59889,
+        "role": "art teacher"
+    },
+    {
+        "name": "Julia Stan",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHnY-MWMiRTd_ArPwQwZzNKnPDTKVThAgXQ&usqp=CAU",
+        "gender": "female",
+        "age": 30,
+        "salary": 45189,
+        "role": "biology teacher"
+    },
+    {
+        "name": "Mary John",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOKS6EviIOL3piGth4aNRzm6C2KoSg1SXXA&usqp=CAU",
+        "gender": "female",
+        "age": 45,
+        "salary": 68889,
+        "role": "geography teacher"
+    },
+    {
+        "name": "Katayama Fumiki",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmNXfLGTyiEJxA6KFBqsmSDjzDCRRX5BOSsw&usqp=CAU",
+        "gender": "male",
+        "age": 35,
+        "salary": 68889,
+        "role": "computer teacher"
+    },
+    {
+        "name": "Vincent Luggers",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhZkzb3yT_r9yM8OyF737mTF0fLBspEeOWg&usqp=CAU",
+        "gender": "female",
+        "age": 33,
+        "salary": 85889,
+        "role": "physics teacher"
+    },
+    {
+        "name": "Dai Jiang",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrYquOb5wwny3D2k5DMHLsvSDVO_NjUwcmNg&usqp=CAU",
+        "gender": "female",
+        "age": 50,
+        "salary": 95889,
+        "role": "chemistry teacher"
+    },
+    {
+        "name": "Chikelu Obasea",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAgNYX7wozdNQ_4IQfprgpPSPSBsk-K6kCPg&usqp=CAU",
+        "gender": "male",
+        "age": 38,
+        "salary": 85889,
+        "role": "history teacher"
+    },
+    {
+        "name": "Masood El Toure",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr31NFwm6tixa1jKMUp3fd_pWitI-hLeYcqw&usqp=CAU",
+        "gender": "female",
+        "age": 28,
+        "salary": 88889,
+        "role": "dance teacher"
+    },
+    {
+        "name": "NICK HOPE",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAdpSGyXOLhUddbKlFwdL1zfl8GbrJtm2QA&usqp=CAU",
+        "gender": "male",
+        "age": 29,
+        "salary": 80889,
+        "role": "sport teacher"
+    }
+]
