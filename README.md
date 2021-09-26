@@ -4,6 +4,6 @@
 
 * Protiva Teacher Center is a Teachers hire website.
 
-* You can make awesome teachers team in this website.
+* You can make an awesome teachers team in this website.
 
 * You can contact easily any teachers and hire them in this webiste.
