@@ -2,10 +2,12 @@ import React from 'react';
 import './Teachers.css'
 
 const Teachers = (props) => {
+    // destructuring for access property of props and teacher object
     const { handleAddToCart, teacher } = props || {};
     const { name, age, img, gender, role, salary } = teacher || {};
 
     return (
+        // single teacher start
         <div className="col-md-4">
             <div className="single-teacher">
                 <div className="teacher-thumb text-center">
@@ -24,6 +26,7 @@ const Teachers = (props) => {
                 </div>
             </div>
         </div>
+        // single teacher end
     );
 };
 

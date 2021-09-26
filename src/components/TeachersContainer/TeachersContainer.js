@@ -16,13 +16,14 @@ const TeachersContainer = () => {
             .then(data => setTeachers(data))
     }, [])
 
-
+    // declear handleAddToCart function for update cart
     const handleAddToCart = (teacher) => {
         const newTeachers = [...cart, teacher]
         setCart(newTeachers)
     }
 
     return (
+        // teachers-container start
         <div className="teachers-container">
             <div className="container">
                 <div className="row">
@@ -45,6 +46,7 @@ const TeachersContainer = () => {
                 </div>
             </div>
         </div>
+        // teachers-container end
     );
 };
 
