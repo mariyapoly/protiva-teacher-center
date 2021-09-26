@@ -1,6 +1,9 @@
+.cart-heading {
+    margin-bottom: 35px;
+}
 .cart-container h3 {
     color: #2b2b2b;
-    font-size: 25px;
-    font-weight: 600;
-    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 15px;
 }

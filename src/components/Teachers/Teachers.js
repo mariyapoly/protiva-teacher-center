@@ -12,9 +12,9 @@ const Teachers = (props) => {
                     <img src={img} alt="teacher-img" />
                 </div>
                 <p><span>name: </span>{name}</p>
+                <p><span>role: </span>{role}</p>
                 <p><span>age: </span>{age}</p>
                 <p><span>gender: </span>{gender}</p>
-                <p><span>role: </span>{role}</p>
                 <p><span>salary: </span> $ {salary}</p>
                 <button onClick={() => handleAddToCart(teacher)} className="cart-button"> <i className="fas fa-shopping-cart"></i> add to cart</button>
                 <div className="social-icon">

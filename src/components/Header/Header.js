@@ -13,23 +13,20 @@ const Header = () => {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li className="nav-item">
-                                <a className="nav-link active" aria-current="page" href="/home">Home</a>
+                                <a className="nav-link active" aria-current="page" href="/">Home</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="/about">about</a>
+                                <a className="nav-link" href="/">about</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="/className">Classes
+                                <a className="nav-link" href="/">service
                                 </a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="/teachers">teaches</a>
+                                <a className="nav-link" href="/">blog</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="/blog">blog</a>
-                            </li>
-                            <li className="nav-item">
-                                <a className="nav-link" href="/blog">contact</a>
+                                <a className="nav-link" href="/">contact</a>
                             </li>
 
                         </ul>
@@ -38,7 +35,7 @@ const Header = () => {
             </nav>
             <div className="total-team">
                 <div className="container">
-                    <h3>Make an Avengers team</h3>
+                    <h3>Make an Astounding Teachers Team</h3>
                     <p>The city is flying and we are fighting an army of robots, and I have a bow and arrow</p>
                     <h3>Total Budget: <span>100 Million</span> </h3>
                 </div>
